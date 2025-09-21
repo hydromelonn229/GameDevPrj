@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Cainos/Pixel Art Top Down - Basic/Scene/MainMenu.unity
+    guid: cb1e81339aa42b44b982d4c133832a1f
+  - enabled: 1
+    path: Assets/Cainos/Pixel Art Top Down - Basic/Scene/Main Menu.unity
+    guid: 623e627388d49d8429f25b3e30202672
+  - enabled: 1
+    path: Assets/Cainos/Pixel Art Top Down - Basic/Scene/Scene1.unity
+    guid: 5f02f94e779e5784db78812c968db42e
+  - enabled: 1
+    path: Assets/Cainos/Pixel Art Top Down - Basic/Scene/TransitionScene.unity
+    guid: e28ec7f8a74a90e48af416707eac6373
+  - enabled: 1
+    path: Assets/Cainos/Pixel Art Top Down - Basic/Scene/Scene2.unity
+    guid: 9333dd10c74c2804b9cbe7c15abd61c5
+  - enabled: 1
+    path: Assets/Cainos/Pixel Art Top Down - Basic/Scene/Credits.unity
+    guid: 755924f85157f634c931dbfe0dd19c39
+  m_configObjects: {}
